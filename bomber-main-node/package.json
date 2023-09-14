@@ -1,0 +1,10 @@
+{
+  "name": "Bomber",
+  "uuid": "5ceb5a29-2fad-49cd-9e0f-1ed67b0d1726",
+  "creator": {
+    "version": "3.7.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

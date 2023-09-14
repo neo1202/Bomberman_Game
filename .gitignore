@@ -1,0 +1,55 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Node.js dependencies
+node_modules/
+config.py
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore compiled React code
+build/
+public/
+
+.env
+
+*~
+*.swp
+tmp
+log/*
+*.log
+*[Xx][Xx][Xx]*
+*.orig
+*.rej
+*.core
+gulpfile.js
+log
+_Inline
+whoami.html
+nytprof.out
+Thumbs.db
+.screens
+/Log/
+/log/

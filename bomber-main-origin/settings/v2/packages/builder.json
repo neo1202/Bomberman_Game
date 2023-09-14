@@ -1,0 +1,10 @@
+{
+  "__version__": "1.3.4",
+  "splash-setting": {
+    "displayRatio": 6.4,
+    "totalTime": 2000,
+    "watermarkLocation": "default",
+    "autoFit": true,
+    "url": "project://settings/splash.png"
+  }
+}
