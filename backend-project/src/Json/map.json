@@ -1,0 +1,14 @@
+{
+    "playerinfo": [
+        {"fd": null, "position": {"x": null, "y": null}},
+        {"fd": null, "position": {"x": null, "y": null}}
+    ],
+
+    "map": {
+        "width": null,
+        "height": null,
+        "grid": [
+            null
+        ]
+    }
+}

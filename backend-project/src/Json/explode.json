@@ -1,0 +1,10 @@
+{
+    "bombID": null,
+    "deads": null,
+    "damagedPlayers": null,
+    "destroy": null,
+    "gameItem": null,
+    "explodeEffectRange": null,
+    "playerInfo": null,
+    "client_fds": null
+}
